@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/daniel-totov"><img src="https://img.shields.io/badge/LinkedIn-Daniel_Totov-0A66C2?style=for-the-badge" alt="LinkedIn: Daniel Totov" /></a>
+  <a href="https://www.linkedin.com/in/daniel-totov"><img src="https://img.shields.io/badge/LinkedIn-Daniel_Totov-0A66C2?style=for-the-badge" alt="LinkedIn: Daniel Totov" /></a>
   <a href="mailto:danielacts@protonmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-B3122E?style=for-the-badge" alt="Email me" /></a>
   <img src="https://img.shields.io/badge/Open_to-junior_Java_backend_roles-2EA043?style=for-the-badge" alt="Open to junior Java backend roles" />
 </p>
@@ -79,6 +79,6 @@ GitIgnore file   0 secs                ░░░░░░░░░░░░░�
 
 ## 🎟️ Curtain call
 
-Hiring for a junior Java backend role, or want to talk code, data or theatre? Find me on [LinkedIn](www.linkedin.com/in/daniel-totov) or [send me an email](mailto:danielacts@protonmail.com).
+Hiring for a junior Java backend role, or want to talk code, data or theatre? Find me on [LinkedIn](https://www.linkedin.com/in/daniel-totov) or [send me an email](mailto:danielacts@protonmail.com).
 
 <sub>And yes, the username is literal: for eight years I was the guy on the stage. 🎭</sub>
