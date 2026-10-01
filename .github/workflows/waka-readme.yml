@@ -1,0 +1,38 @@
+# .github/workflows/waka-readme.yml
+#
+# What this is: instructions for a small robot (a GitHub Action) that GitHub
+# runs on its own servers. Once a day it:
+#   1. asks WakaTime for your coding stats, using your secret API key,
+#   2. rewrites ONLY the lines in README.md between
+#        <!--START_SECTION:waka-->   and   <!--END_SECTION:waka-->
+#   3. commits that change back to this repository.
+#
+# One-time setup in this repo: Settings → Secrets and variables → Actions →
+#   New repository secret   Name: WAKATIME_API_KEY   Value: your key from https://wakatime.com/api-key
+# Never paste the key into this file or into the README. Both are public.
+
+name: Waka Readme
+
+on:
+  workflow_dispatch:          # adds a "Run workflow" button in the Actions tab, for testing
+  schedule:
+    - cron: "0 0 * * *"       # every day at 00:00 UTC
+
+permissions:
+  contents: write             # lets the robot commit the updated README
+
+jobs:
+  update-readme:
+    name: Refresh coding stats from WakaTime
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true            # prints the date range above the chart
+          TIME_RANGE: last_30_days    # alternatives: last_7_days, last_6_months, last_year, all_time
+          SHOW_TOTAL: true            # adds a "Total Time" line
+          LANG_COUNT: 6               # show your top 6 languages
+          COMMIT_MESSAGE: "chore: refresh WakaTime coding stats"
+          # Leave AUTHOR_NAME / AUTHOR_EMAIL unset on purpose: the daily commits then
+          # belong to the GitHub Actions bot instead of padding your contribution graph.
