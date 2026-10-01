@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@WAKATIME_USER_ID"><img src="https://wakatime.com/badge/user/WAKATIME_USER_ID.svg" alt="Total time coded since I started tracking with WakaTime" /></a>
+  <a href="https://wakatime.com/@c5073d47-3eae-491d-aad8-4b0ec95ad363.svg"><img src="https://wakatime.com/badge/user/c5073d47-3eae-491d-aad8-4b0ec95ad363.svg.svg" alt="Total time coded since I started tracking with WakaTime" /></a>
 </p>
 
 ## 🎭 The story in three acts
