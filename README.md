@@ -1,20 +1,10 @@
-<!--
-  Profile README for github.com/Theguyonthestage
-  Before publishing, replace every ALL-CAPS placeholder:
-    YOUR-LINKEDIN-URL  -> e.g. https://www.linkedin.com/in/danieltotov
-    YOUR-EMAIL         -> the address you want recruiters to write to
-    WAKATIME_USER_ID   -> open https://wakatime.com/api/v1/users/current while logged in to WakaTime and copy "id"
-  The lines between START_SECTION:waka and END_SECTION:waka are written by the
-  GitHub Action in .github/workflows/waka-readme.yml. Keep both markers exactly as they are.
--->
-
 <p align="center">
   <img src="assets/banner.svg" width="100%" alt="Curtains open on Daniel Totov, Java Backend Developer: stage.exit(); stack.enter();" />
 </p>
 
 <p align="center">
-  <a href="YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/LinkedIn-Daniel_Totov-0A66C2?style=for-the-badge" alt="LinkedIn: Daniel Totov" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Get_in_touch-B3122E?style=for-the-badge" alt="Email me" /></a>
+  <a href="www.linkedin.com/in/daniel-totov"><img src="https://img.shields.io/badge/LinkedIn-Daniel_Totov-0A66C2?style=for-the-badge" alt="LinkedIn: Daniel Totov" /></a>
+  <a href="mailto:danielacts@protonmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-B3122E?style=for-the-badge" alt="Email me" /></a>
   <img src="https://img.shields.io/badge/Open_to-junior_Java_backend_roles-2EA043?style=for-the-badge" alt="Open to junior Java backend roles" />
 </p>
 
@@ -26,9 +16,9 @@
 
 <!-- These are drafts in your voice. Rewrite any line that doesn't sound like you. -->
 
-**Act I · The Stage.** Eight years as a professional theatre actor. Performing night after night taught me discipline, timing, and how to work in an ensemble where everyone depends on everyone else hitting their cue.
+**Act I · The Stage.** Eight years as a professional theatrical actor. Performing night after night taught me discipline, timing, and working well in an ensemble where everyone depends on everyone else hitting their cue. At the end of those eight years I left the stage happy to have achieved some of my biggest dreams, such as playing on the stage of the National Theatre of Bulgaria 4 times, prizes won in festivals, and many character building plays behind my back.
 
-**Act II · The Data.** Five years in data management at Pentagon, an international e-commerce company, keeping product data accurate for UK clients selling across European online marketplaces. That's where I saw how much depends on clean, consistent data.
+**Act II · The Data.** Five years in data management at Pentagon Interactive, an international e-commerce company, that demanded my skills with English, French language, and SQL, keeping product data accurate for UK clients selling across European online marketplaces. That's where I saw how much depends on clean, consistent data.
 
 **Act III · The Code.** Master's student in Software Engineering at Plovdiv University, building myself into a **Java backend developer**: the person who designs the systems that data lives in.
 
@@ -89,6 +79,6 @@ GitIgnore file   0 secs                ░░░░░░░░░░░░░�
 
 ## 🎟️ Curtain call
 
-Hiring for a junior Java backend role, or want to talk code, data or theatre? Find me on [LinkedIn](YOUR-LINKEDIN-URL) or [send me an email](mailto:YOUR-EMAIL).
+Hiring for a junior Java backend role, or want to talk code, data or theatre? Find me on [LinkedIn](www.linkedin.com/in/daniel-totov) or [send me an email](mailto:danielacts@protonmail.com).
 
 <sub>And yes, the username is literal: for eight years I was the guy on the stage. 🎭</sub>
