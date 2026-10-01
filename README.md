@@ -62,6 +62,19 @@
 Theatre taught me that the work happens in rehearsal, not on opening night. WakaTime measures my real time in the editor, and a GitHub Action refreshes this every day:
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 31 August 2026 - To: 30 September 2026
+
+Total Time: 14 hrs 45 mins
+
+Java             12 hrs 19 mins        █████████████████████░░░░   83.46 %
+XML              2 hrs 1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+Markdown         23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Python           1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 📂 Featured work
