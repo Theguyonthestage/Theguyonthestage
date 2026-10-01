@@ -71,9 +71,9 @@ GitIgnore file   0 secs                ░░░░░░░░░░░░░�
 
 | Project | What it shows |
 |---|---|
-| [**Java Masterclass challenges**](https://github.com/Theguyonthestage/Tim-Buchalka-s-course-s-coding-chalenges) | Generics with bounded types, interfaces and polymorphism, plus a linked list and a binary search tree written from scratch, with no `Comparable` and no built-in collections |
-| [**Burger ordering system**](https://github.com/Theguyonthestage/Udemy-bills-burgers-java-challenge) | Object-oriented design: inheritance and method overriding |
-| [**University coursework**](https://github.com/Theguyonthestage/Plovdiv-University-Challenges) | Java exercises and exam tasks from my Master's programme |
+| [**Java Masterclass challenges**](https://github.com/Theguyonthestage/java-masterclass-challenges) | Generics with bounded types, interfaces and polymorphism, plus a linked list and a binary search tree written from scratch, with no `Comparable` and no built-in collections |
+| [**Burger ordering system**](https://github.com/Theguyonthestage/java-masterclass-challenges/tree/main/BillsBurgerChallenge) | Object-oriented design: inheritance and method overriding |
+| [**University coursework**](https://github.com/Theguyonthestage/plovdiv-university-coursework) | Java exercises and exam tasks from my Master's programme |
 <!-- | [**Bulgarian Theatres knowledge base**](https://github.com/Theguyonthestage/REPO-NAME) | 🎭 Where my two careers met: a Prolog knowledge-based system about Bulgarian theatres | -->
 <!-- | [**Marketplace listings backend**](https://github.com/Theguyonthestage/REPO-NAME) | Java backend for product listings across EU marketplaces: JDBC → JPA → Spring Boot REST API | -->
 
