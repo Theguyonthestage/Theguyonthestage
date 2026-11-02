@@ -54,16 +54,16 @@ Theatre taught me that the work happens in rehearsal, not on opening night. Waka
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2026 - To: 30 October 2026
+From: 01 October 2026 - To: 31 October 2026
 
-Total Time: 35 hrs 15 mins
+Total Time: 34 hrs 47 mins
 
-Java              30 hrs 58 mins        ██████████████████████░░░   87.85 %
-Markdown          1 hr 43 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-XML               1 hr 41 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-GitIgnore file    23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-YAML              9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-CLASS             6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Java              30 hrs 48 mins        ██████████████████████░░░   88.58 %
+Markdown          1 hr 43 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+XML               1 hr 25 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+GitIgnore file    23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+YAML              9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+CLASS             6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
